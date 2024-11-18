@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/som-calculator/static/css/main.26182e0c.css",
+    "main.js": "/som-calculator/static/js/main.14f86153.js",
+    "static/js/453.492617a9.chunk.js": "/som-calculator/static/js/453.492617a9.chunk.js",
+    "index.html": "/som-calculator/index.html",
+    "main.26182e0c.css.map": "/som-calculator/static/css/main.26182e0c.css.map",
+    "main.14f86153.js.map": "/som-calculator/static/js/main.14f86153.js.map",
+    "453.492617a9.chunk.js.map": "/som-calculator/static/js/453.492617a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26182e0c.css",
+    "static/js/main.14f86153.js"
+  ]
+}
